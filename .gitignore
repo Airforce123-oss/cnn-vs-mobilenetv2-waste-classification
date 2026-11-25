@@ -11,19 +11,8 @@ __pycache__/
 # macOS
 .DS_Store
 
-# TensorFlow / Keras model files
-*.keras
-*.h5
-
-# Dataset besar
-train/
-validation/
-test/
-256x256-litter-sort-annotated-wastes/
-
 # Hasil gambar / grafik eksperimen
 *.png
-*.jpg
 *.jpeg
 
 # CSV hasil eksperimen
